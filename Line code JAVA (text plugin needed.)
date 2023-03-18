@@ -1,0 +1,11 @@
+--THIS IS ONLY FOR A NORMAL VANILLA QUESTION + ANSWER - ADD-ON SCRIPT.
+
+--USE WISELY + NO CREDIT NEEDED. USE ALL YOU WANT, JUST BE CAREFUL FIDDLING WITH THE CODE!
+
+
+let person = prompt("QUESTION HERE", "answer");
+
+if (person != null) {
+  document.getElementById("demo").innerHTML =
+  "text" + variable + "question add-on here";
+}
